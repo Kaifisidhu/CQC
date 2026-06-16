@@ -1,0 +1,2 @@
+# CQC
+Classical quantum computing 
